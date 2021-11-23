@@ -12,3 +12,8 @@
 .thingy{
     background:cornflowerblue;
 }
+canvas{
+    border:5px solid #EEEE;
+    box-shadow: 5px 5px 40px grey;
+    border-radius: 10%;
+}
